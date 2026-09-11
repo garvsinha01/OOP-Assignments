@@ -2,6 +2,7 @@
 using namespace std;
 
 class Employ {
+private:
     string name;
     int id;
     string department;
@@ -10,7 +11,7 @@ class Employ {
 public:
     void input() {
         name = "Garv";
-        id = 101;
+        id = 32;
         department = "HR";
         salary = 35000;
     }
@@ -25,9 +26,9 @@ public:
 
 int main() {
     Employ e;
-
     e.input();
     e.display();
 
     return 0;
 }
+

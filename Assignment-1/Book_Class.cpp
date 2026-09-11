@@ -16,7 +16,7 @@ public:
 };
 
 int main() {
-  cout <<"=====BOOK LIBRARY SYSTEM=====" << endl;
+  cout <<"-----BOOK LIBRARY SYSTEM-----" << endl;
 
   Books b1;
 

@@ -4,7 +4,7 @@ using namespace std;
 
 class Student {
 private:
-    int name;
+    string name;
     string rollno;
     string course;
     float marks;
@@ -12,7 +12,7 @@ private:
 public:
     void input() {
         name = "Garv Sinha;
-        rollno = "32";
+        rollno = 32;
         course = "CSE-AIML";
         marks = 89.5;
     }

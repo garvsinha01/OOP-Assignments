@@ -18,7 +18,7 @@ public:
      cout << "Enter Employee ID: ";
      cin >> Employee_ID;
 
-     cin.ignore();                     // usi9ng this or the outoput as for example becomes in such a way that there is no next line after "Enetr Name:".
+     cin.ignore();                     // using this or the outoput as for example becomes in such a way that there is no next line after "Enetr Name:".
 
      cout << "Enter Employee Name: ";   
      getline(cin, name);                // I am using getline instead of cin as cin only prints the first word.

@@ -11,7 +11,7 @@ private:
 
 public:
     void input() {
-        name = "Garv Sinha;
+        name = "Garv Sinha);
         rollno = 32;
         course = "CSE-AIML";
         marks = 89.5;

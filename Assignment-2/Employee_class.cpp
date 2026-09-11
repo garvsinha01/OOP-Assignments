@@ -34,7 +34,7 @@ public:
 
    }
 
-   void display() {                   // This will display the employee details.
+   void display() {                   
       cout << "\n-----Employee Details-----" << endl;
       cout << "Employee ID    : "  << Employee_ID << endl;
       cout << "Name           : "  << name << endl;
@@ -44,7 +44,7 @@ public:
 };
 
 int main() {
-   Employee emp;                      // emp is the object of the Employee class.
+  Employee emp;                      
 
   cout << "Enter Employee Information\n";
   emp.input();

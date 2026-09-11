@@ -10,7 +10,7 @@ public:
     Book() {
         title = "ABC";
         author = "DEF";
-        price = 0;
+        price = 100;
     }
 
     Book(string t, string a, int p) {

@@ -33,9 +33,9 @@ public:
 
   void display() {
     cout << "\n-----Book Details-----" << endl;
-    cout << "Book ID    : " << book_id << endl;
-    cout << "Name       : " << name << endl;
-    cout << "Author     : " << author << endl;
+    cout << "Book ID : " << book_id << endl;
+    cout << "Name : " << name << endl;
+    cout << "Author : " << author << endl;
     cout << " Publisher : " << publisher << endl;
   }
 };

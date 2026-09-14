@@ -12,16 +12,17 @@ private:
 public:
     void input() {
         name = "Garv Sinha";
-        rollno = 32;
+        rollno = "32";
         course = "CSE-AIML";
         marks = 89.5;
     }
 
     void display() {
-        cout << "Name : " << name << endl;
-        cout << "Roll No   : " << rollno << endl;
-        cout << "Course  : " << course << endl;
-        cout << "Marks   : " << marks << endl;
+        cout << "Name: " << name << endl;
+        cout << "Roll No: " << rollno << endl;
+        cout << "Course: " << course << endl;
+        cout << "Marks: " << marks << endl;
+        cout << "---------------------------"<<endl;
     }
 };
 

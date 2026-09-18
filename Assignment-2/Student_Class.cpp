@@ -5,7 +5,7 @@ using namespace std;
 class Student {
 private:
     string name;
-    string rollno;
+    int rollno;
     string course;
     float marks;
 

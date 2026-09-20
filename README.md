@@ -1,6 +1,5 @@
 # OOP-Assignments
 OOP Assignment For Semester-1
-(Tested my code using Code::Blocks)
 
 UNIT 1-
 

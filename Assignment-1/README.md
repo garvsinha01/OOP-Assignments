@@ -1,41 +1,38 @@
-# Book Library System (C++)
+# Book Library System
 
-A simple Object-Oriented Programming (OOP) project written in C++ that stores and displays the details of a book using a class and an object.
+A basic C++ OOP program that stores and displays book details using a class and an object.
 
-## Objective
+## Features
 
-To understand the basic concepts of OOP, including:
+* Store Book ID, Name, and Price
+* Display book information
 
-* Class and Object
-* Public data members
-* Member functions
-* Object creation
-* Displaying object data
+## Concepts Used
 
-## Program Features
+* Classes & Objects
+* Member Functions
+* `iostream` and `string`
 
-* Stores Book ID
-* Stores Book Name
-* Stores Book Price
-* Displays all book details using a member function
+## Output
 
-## Sample Output
+Displays the book's ID, name, and price.
 
-```text
------BOOK LIBRARY SYSTEM-----
-Book ID: 167
-Book Name: OOP Basics
-Book Price: 245.5
-```
 
-## Project Structure
+# Book Details System
 
-```text
-Book-Library-System/
-│── main.cpp
-└── README.md
-```
+A simple C++ OOP program that uses a **constructor** to initialize and display book details.
 
-## Learning Outcome
+## Features
 
-This project demonstrates how classes are used to model real-world objects and how objects store and access data through member functions in C++.
+* Initialize book data using a constructor
+* Display title, author, and price
+
+## Concepts Used
+
+* Classes & Objects
+* Constructor
+* Member Function
+
+## Output
+
+Displays the book's title, author, and price.

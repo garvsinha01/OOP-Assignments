@@ -1,6 +1,6 @@
 # Student Record System
 
-A simple C++ OOP program that stores and displays student details using private data members.
+A program that stores and displays student details using private data members.
 
 ## Features
 

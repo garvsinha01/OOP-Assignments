@@ -11,7 +11,6 @@ A basic C++ OOP program that stores and displays book details using a class and 
 
 * Classes & Objects
 * Member Functions
-* `iostream` and `string`
 
 ## Output
 

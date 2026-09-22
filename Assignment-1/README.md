@@ -1,6 +1,6 @@
 # Book Library System
 
-A basic C++ OOP program that stores and displays book details using a class and an object.
+A program that stores and displays book details using a class and an object.
 
 ## Features
 

@@ -1,12 +1,19 @@
-#include <iostream>
+##include <iostream>
 #include <string>
 using namespace std;
 
 class Books {
-public:
+private:
   int book_id;
   string book_name;
   float book_price;
+
+public:
+  void setData(int id, string name, float price) {
+    book_id = id;
+    book_name = name;
+    book_price = price;
+  }
 
   void display() {
     cout << "Book ID: " << book_id << endl;
@@ -16,14 +23,13 @@ public:
 };
 
 int main() {
-  cout <<"-----BOOK LIBRARY SYSTEM-----" << endl;
+  cout << "-----BOOK LIBRARY SYSTEM-----" << endl;
 
   Books b1;
 
-  b1.book_id = 167;
-  b1.book_name = "OOP Basics";
-  b1.book_price = 245.50;
+  b1.setData(167, "OOP Basics", 245.50);
 
   b1.display();
+
   return 0;
 }

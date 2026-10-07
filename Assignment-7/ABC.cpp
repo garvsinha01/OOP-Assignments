@@ -8,7 +8,7 @@ public:
    long long Mobile_Number;
 
    void display() {
-     cout << "Name of a Student: " << name << endl;
+     cout << "Student Name: " << name << endl;
      cout << "Age: " << age << endl;
      cout << "Mobile No.: " << Mobile_Number << endl;
    }

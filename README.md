@@ -25,3 +25,5 @@ Assignment-6 :- An HR application creates employee records temporarily while pro
 DATE- 08/10/26.
 
 Assignment-7 :- A university information system stores common details such as name, age, and contact information for all individuals, while student-specific information such as roll number and branch is maintained separately. Design an application that avoids duplication of common data by organizing the classes appropriately. DATE- 08/10/26.
+
+Assignment-8 :- An organization maintains record of its workforce. Every manager is an employee, and every employee is a person. Design an application that progressively extends the available information at each level while reusing the common details already defined. DATE- 08/10/26.

@@ -5,7 +5,7 @@ class University {
 public:
    string name;
    int age;
-   long long Mobile_Number;
+   int Mobile_Number;
 
    void display() {
      cout << "Student Name: " << name << endl;

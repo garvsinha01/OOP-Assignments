@@ -30,7 +30,7 @@ Assignment-7 :- A university information system stores common details such as na
 
 Assignment-8 :- An organization maintains record of its workforce. Every manager is an employee, and every employee is a person. Design an application that progressively extends the available information at each level while reusing the common details already defined. DATE- 08/10/26.
 
-Assignment-9 :-
+Assignment-9 :-  A vehicle showroom wants to develop a system to maintain and display information about different types of vehicles. Design a base class Vehicle that stores common information such as brand name and provides a function to display it. Derive three classes, Car, Bike, and Bus, from the base class. Each derived class should store its specific details, such as model, color, and speed, and display the complete information of the respective vehicle using the concept of Hierarchical Inheritance. DATE- 30/10/26.
 
 # Unit 4-
 

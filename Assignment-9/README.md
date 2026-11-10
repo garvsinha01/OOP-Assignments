@@ -5,7 +5,7 @@ A program that stores and displays vehicle details using hierarchical inheritanc
 ## Features
 
 * Store vehicle brand names
-* Store model, colour, and speed
+* Store model, color, and speed
 * Display car, bike, and bus information
 
 ## Concepts Used
@@ -16,4 +16,4 @@ A program that stores and displays vehicle details using hierarchical inheritanc
 
 ## Output
 
-Displays the vehicle's brand, model, colour, and speed.
+Displays the vehicle's brand, model, color, and speed.

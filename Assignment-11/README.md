@@ -1,6 +1,7 @@
 ## Features
  - Calculates the total bill of two products.
  - Calculates the total bill of three products.
+ - Calculates the total bill of four products.
  - Uses function overloading to perform different calculations.
  - Displays the total product price.
  - Uses a class and object for bill calculation.

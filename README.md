@@ -36,3 +36,5 @@ Assignment-9 :-  A vehicle showroom wants to develop a system to maintain and di
 
 Assignment-10 :- A University examination system calculates students result using different sets of marks design a result class with overloaded function 
 Calculate_Average to calculate the average of two integer marks, three integer marks and two floating point marks, display the calculated average for each case. DATE- 30/10/26.
+
+Assignment-11: - A shopping mall billing application calculates the total bill for customer purchasing different combination of product. Define billing class with overload function named Calculate_Bill() to calculate the bill for 2 product, 3 product and 4 product. Each product should accept the respective product prices and display the respective amount. DATE- 20/11/26.

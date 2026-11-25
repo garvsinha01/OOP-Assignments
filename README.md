@@ -32,9 +32,7 @@ Assignment-8 :- An organization maintains record of its workforce. Every manager
 
 Assignment-9 :-  A vehicle showroom wants to develop a system to maintain and display information about different types of vehicles. Design a base class Vehicle that stores common information such as brand name and provides a function to display it. Derive three classes, Car, Bike, and Bus, from the base class. Each derived class should store its specific details, such as model, color, and speed, and display the complete information of the respective vehicle using the concept of Hierarchical Inheritance. DATE- 30/10/26.
 
-# Unit 4-
-
-Assignment-10 :- A University examination system calculates students result using different sets of marks design a result class with overloaded function 
+Assignment- :- A University examination system calculates students result using different sets of marks design a result class with overloaded function 
 Calculate_Average to calculate the average of two integer marks, three integer marks and two floating point marks, display the calculated average for each case. DATE- 30/10/26.
 
-Assignment-11: - A shopping mall billing application calculates the total bill for customer purchasing different combination of product. Define billing class with overload function named Calculate_Bill() to calculate the bill for 2 product, 3 product and 4 product. Each product should accept the respective product prices and display the respective amount. DATE- 20/11/26.
+Assignment- : - A shopping mall billing application calculates the total bill for customer purchasing different combination of product. Define billing class with overload function named Calculate_Bill() to calculate the bill for 2 product, 3 product and 4 product. Each product should accept the respective product prices and display the respective amount. DATE- 20/11/26.

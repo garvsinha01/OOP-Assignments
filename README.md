@@ -37,3 +37,9 @@ Avg_Marks :- A University examination system calculates students result using di
 Calculate_Average to calculate the average of two integer marks, three integer marks and two floating point marks, display the calculated average for each case. DATE- 30/10/26.
 
 Total_Bill_Of_Products. :- A shopping mall billing application calculates the total bill for customer purchasing different combination of product. Define billing class with overload function named Calculate_Bill() to calculate the bill for 2 product, 3 product and 4 product. Each product should accept the respective product prices and display the respective amount. DATE- 20/11/26.
+
+# UNIT 4-
+
+Assignmnet-10 :- A data analysis application compares different types of values, such as student marks, product prices, and sensor readings. Design a generic function that determines the larger of two values regardless of their data type. DATE- 27/11/26.
+
+Assignmnet-11 :- A scheduling application frequently exchanges values such as employee IDs, room numbers, and task priorities during resource allocation. Design a reusable function that performs the swap operation for different types of data. DATE- 27/11/26.

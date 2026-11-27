@@ -14,8 +14,11 @@ void swapValues(T a, T b) {
 }
 
 int main() {
+    cout << "Employee ID: " << endl;
     swapValues(12, 36);
+    cout << "Room Numbers: " << endl;
     swapValues(202, 304);
+    cout << "Task Priority: " << endl;
     swapValues(2, 1);
 
     return 0;

@@ -14,7 +14,6 @@
 * Swap operator
 
 ## Output
-text
 Before Swapping: 12, 36
 After Swpping: 36, 12
 Before Swapping: 202, 304

@@ -4,22 +4,19 @@ using namespace std;
 template <typename T>
 
 void larger(T a, T b) {
-if ( a > b) {
-  cout << "Larger Value: " << a  << endl;
+if ( a > b ) {
+  cout << "a is greater than b"  << endl;
 }
 
 else {
-  cout << "Larger Value:  " << b << endl; 
+  cout << "b is greater than a"  << endl; 
 }
 };
 
 int main() {
-  int a = 85, b = 90;
-  float c = 45.5f, d = 19.8f;
-  double e = 23.45f, f = 60.54f;
 
-  larger(a,b);
-  larger(c,d);
-  larger(e,f);
+  larger(89,56);
+  larger(67.67,96.96);
+  larger(33.66,89.99);
   return 0;
 }
